@@ -1,0 +1,11 @@
+,value
+export_rows,278861
+lakes_exported,1111
+months_exported,251
+complete_X_rows,162397
+features,5
+lakes_with_complete_X,647
+train_rows,131988
+test_rows,30409
+rows_missing_climate,116464
+december_2021_present,False

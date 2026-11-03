@@ -1,0 +1,7 @@
+group,feature,unit,definition
+Optic / JRC,water_km2,km²,water class area inside lake polygon
+Optic / JRC,valid_area_km2,km²,"JRC coverage diagnostic, not PCA input"
+Climate / ERA5-Land,t2m_c,°C,"monthly mean, polygon reducer, ~11.1 km scale"
+Climate / ERA5-Land,precip_mm,mm/month,"monthly total, polygon reducer, ~11.1 km scale"
+Calendar,month_sin,unitless,sin(2π month / 12)
+Calendar,month_cos,unitless,cos(2π month / 12)
