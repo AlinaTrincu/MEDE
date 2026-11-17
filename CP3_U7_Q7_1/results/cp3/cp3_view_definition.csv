@@ -1,0 +1,4 @@
+view,features,n_features,decision
+ERA5_Land,t2m_c;precip_mm,2,"Compare PCA and UMAP; UMAP maps 2D to 2D, so interpret primarily as neighborhood-preservation check."
+Combinat,water_km2;t2m_c;precip_mm;month_sin;month_cos,5,Primary dimensionality-reduction comparison: 5D to 2D.
+JRC,water_km2,1,Report PCA trivial 1D baseline; do not claim meaningful dimensionality reduction.
